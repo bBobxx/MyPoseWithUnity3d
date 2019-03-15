@@ -1,5 +1,5 @@
 # MyPoseWithUnity3d
-More detail pleas refer to my blog:https://blog.csdn.net/bobxx/article/details/88354697
+More detail please refer to my blog:https://blog.csdn.net/bobxx/article/details/88354697
 
 using pose estimation result to control ball in unity3d
 before use,please install tensorflow and opencv-python
